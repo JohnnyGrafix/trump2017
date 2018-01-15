@@ -1,0 +1,59 @@
+title: One year in Trump presidency
+subhead: Key moments in the first year of Donald Trump’s turbulent presidency 
+
+[tabs]
+image: Trump_2017_1-01.png
+props.name: Ban
+props.title: Travel ban saga
+props.caption: A protester in front of the US Court of Appeals, Ninth Circuit, in San Francisco, Feb 7 
+props.description: One week after taking office, Trump decreed a 90-day ban on arrivals from seven Muslim-majority countries, 120-day ban on all refugees
+props.description2: The ban has been revised and tangled up in courts, but for the moment, is partially in effect
+props.color: #3155A6
+
+image: Trump_2017_2-01.png
+props.name: FBI
+props.title: Sacking the FBI director
+props.caption: James Comey is sworn in during a a Senate hearing, Jun 8
+props.description: On May 9, Trump abruptly fired FBI director James Comey, who was leading a probe into whether Trump’s election campaign colluded with Russia
+props.description2: The sacking led to the appointment of an independent counsel, Robert Mueller, to head the Russia investigation
+props.color: #3155A6
+
+
+image: AustOpen_women_3-01.png
+props.name: Svitolina
+props.title: Elina Svitolina
+props.age: Age: 23
+props.country: Ukraine
+props.rank: Rank: 4 
+props.description: Five titles in 2017, won the Brisbane International on Jan 6, 2018
+props.description2: Rose to career-high number 3 in the world by Sept 2017
+props.color: #2F5E23
+
+image: AustOpen_women_4-01.png
+props.name: Pliskova 
+props.title: Karolina Pliskova
+props.age: Age: 25
+props.country: Czec Republic
+props.rank: Rank: 6 
+props.description: Three titles in 2017, runner-up in US Open in 2016
+props.description2: Reached the Australian Open quarter-finals last year 
+props.color: #2F5E23
+
+
+image: AustOpen_women_5-01.png
+props.name: Konta
+props.title: Johanna Konta
+props.age: Age: 26
+props.country: Britain
+props.rank: Rank: 9 
+props.description: Two titles in 2017
+props.description2: Reached semi-finals in Australian Open in 2016, Wimbledon in 2017
+props.color: #2F5E23
+
+[]
+
+sources: Source: ATP
+
+lastUpdate.key: Last update:
+lastUpdate.value: 01/09/2018 22:00:00 (HK)
+lang: en
