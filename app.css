@@ -91,25 +91,42 @@ main img {
 }
 
 @media screen and (min-width: 500px) {
-  main img {
-    float: right;
-  }
   div {
 	  width: 100%;
   }
   h3 {
     padding-top: 0px;
   }
-  main img {
-  margin-top: -40px;
-  margin-left: 20px;
+.imgbox {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 270px;
 }
-  p {
-    width: 45%;
+.imgbox img {
+	width: 70%;
+}
+.descriptions {
+	display: flex;
+	}
+.descriptions  p {
+	padding: 20px;
+	border-top: 0px;
+	border-left: 1px solid #e4ecef;
+    }
+#col2 {
+	border-right: 1px solid #e4ecef; 
+}	
+  .caption {
+	  margin-top: 50px;
   }
   main {
 	  width: 90%;
-	  height: auto;
+	  height: 550px;
+  }
+  nav {
+	  max-width: 520px;
+	  margin: auto;
   }
   nav ul li {
   width: 100px;

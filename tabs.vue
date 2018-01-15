@@ -9,10 +9,14 @@
     </nav>
     <main>
       <h3>{{ currentItem.props.title }}</h3>
+	  <div class="imgbox">
 	  <img :src="currentImage" />
+	  </div>
 	  <p id="caption"> {{ currentItem.props.caption }}</p>
+	  <div class="descriptions">
       <p> {{ currentItem.props.description }}</p>
-	  <p> {{ currentItem.props.description2}}</p>
+	  <p id="col2"> {{ currentItem.props.description2}}</p>
+	  </div>
     </main>
     
   </div> 
