@@ -19,36 +19,54 @@ props.description2: The sacking led to the appointment of an independent counsel
 props.color: #3155A6
 
 
-image: AustOpen_women_3-01.png
-props.name: Svitolina
-props.title: Elina Svitolina
-props.age: Age: 23
-props.country: Ukraine
-props.rank: Rank: 4 
-props.description: Five titles in 2017, won the Brisbane International on Jan 6, 2018
-props.description2: Rose to career-high number 3 in the world by Sept 2017
-props.color: #2F5E23
+image: Trump_2017_3-01.png
+props.name: Climate
+props.title: Climate deal pullout
+props.caption: Trump supporters rally near the White House, Jun 3
+props.description: On June 1, Trump announced he was pulling out of the Paris climate deal, reversing the country’s commitment to fight global warming
+props.description2: He painted the accord as a “bad deal”, saying “he was elected to represent the citizens of Pittsburgh, not Paris”
+props.color: #3155A6
 
-image: AustOpen_women_4-01.png
-props.name: Pliskova 
-props.title: Karolina Pliskova
-props.age: Age: 25
-props.country: Czec Republic
-props.rank: Rank: 6 
-props.description: Three titles in 2017, runner-up in US Open in 2016
-props.description2: Reached the Australian Open quarter-finals last year 
-props.color: #2F5E23
+image: Trump_2017_4-01.png
+props.name: Kim
+props.title: Pushing Kim’s buttons
+props.caption: TV screen in Seoul show photos of the leaders of US and North 
+Korea, Nov 29
+props.description: In September, Trump vowed to destroy the nuclear-armed North Korea, led by leader Kim Jong-Un a.k.a. “Rocket Man”, if it threatened the US
+props.description2: Analysts fear Trump’s outbursts dangerously raise the risk of miscalculation that could lead to disaster
+props.color: #3155A6
 
+image: Trump_2017_5-01.png
+props.name: Mid East
+props.title: Status of Jerusalem
+props.caption: Palestinian supporters hold protest in Gaza Strip against Trump’s decision  to recognise Israel as capital of Jerusalem, Jan 12
+props.description: On Dec 6, Trump recognised Jerusalem as Israel’s capital, a decision that overturned decades of US policy.  The move was largely rejected in a UN vote 
+props.description2:Palestinian president Mahmud Abbas reacted by saying he would “no longer accept” any peace plan proposed by the United States
+props.color: #3155A6
 
-image: AustOpen_women_5-01.png
-props.name: Konta
-props.title: Johanna Konta
-props.age: Age: 26
-props.country: Britain
-props.rank: Rank: 9 
-props.description: Two titles in 2017
-props.description2: Reached semi-finals in Australian Open in 2016, Wimbledon in 2017
-props.color: #2F5E23
+image: Trump_2017_6-01.png
+props.name: Tax
+props.title: $1.5 trillion tax cut
+props.caption: US President Donald Trump holds a document during an event to sign the Tax Cut and Reform Bill, Dec 22
+props.description: On Dec 22, Trump signed the most sweeping rewrite of the US tax code in decades, bringing with it cuts worth $1.5 trillion
+props.description2:Opposition Democrats branded it a giveaway to the wealthiest that risks blowing a hole in the national debt
+props.color: #3155A6
+
+image: Trump_2017_7-01.png
+props.name: Bannon
+props.title: Bye bye, Bannon
+props.caption: Steve Bannon speaks during a campaign event in Alabama, Dec 5
+props.description: In the first part of the year, Trump retained controversial right-wing firebrand Steve Bannon as his chief strategist, until Bannon  exited the White House in August
+props.description2:When Bannon was quoted in an explosive West Wing expose, Trump branded him "Sloppy Steve" and said he had "lost his mind"
+props.color: #3155A6
+
+image: Trump_2017_8-01.png
+props.name: 'genious'
+props.title: ‘A very stable genius’
+props.caption: A man holds a copy of the book on Trump’s White House  administration, Jan 5
+props.description: The book that led to Bannon’s fall, “Fire and Fury”, portrayed the president as disengaged, ill-informed and  temperamentally unstable 
+props.description2:Trump took to Twitter to describe himself as “a very stable genius” and “like, really smart”
+props.color: #3155A6
 
 []
 
